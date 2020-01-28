@@ -1,2 +1,9 @@
 new file created to test
 local changes to my file
+
+function (a,b) {
+  return a + b
+}
+
+console.log(2)
+console.log(3)
